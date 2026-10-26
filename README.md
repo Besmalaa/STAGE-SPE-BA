@@ -135,6 +135,6 @@ Les alertes sont générées selon plusieurs critères :
 
 ## 10. Contact / Auteur
 
-Ton Nom – [mb_bouameur@esi.dz](mb_bouameur@esi.dz)
+BOUAMEUR Besmala Aicha – [mb_bouameur@esi.dz](mb_bouameur@esi.dz)
 Lien GitHub : [https://github.com/Besmalaa/STAGE-SPE-BA](https://github.com/Besmalaa/STAGE-SPE-BA)
 
